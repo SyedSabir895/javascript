@@ -1,2 +1,1 @@
-# javascript
-my javascript chapters
+javascript method chaining
